@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\bin\Debug\net8.0\Introdução Operadores Aritimeticos.exe
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\bin\Debug\net8.0\Introdução Operadores Aritimeticos.deps.json
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\bin\Debug\net8.0\Introdução Operadores Aritimeticos.runtimeconfig.json
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\bin\Debug\net8.0\Introdução Operadores Aritimeticos.dll
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\bin\Debug\net8.0\Introdução Operadores Aritimeticos.pdb
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\obj\Debug\net8.0\Introdução Operadores Aritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\obj\Debug\net8.0\Introdução Operadores Aritimeticos.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\obj\Debug\net8.0\Introdução Operadores Aritimeticos.AssemblyInfo.cs
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\obj\Debug\net8.0\Introdução Operadores Aritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\obj\Debug\net8.0\Introdução Operadores Aritimeticos.sourcelink.json
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\obj\Debug\net8.0\Introdução Operadores Aritimeticos.dll
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\obj\Debug\net8.0\refint\Introdução Operadores Aritimeticos.dll
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\obj\Debug\net8.0\Introdução Operadores Aritimeticos.pdb
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\obj\Debug\net8.0\Introdução Operadores Aritimeticos.genruntimeconfig.cache
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores Aritimeticos em C_sharp\obj\Debug\net8.0\ref\Introdução Operadores Aritimeticos.dll
